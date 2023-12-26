@@ -1,0 +1,35 @@
+_repo: The-Star-Woman_72367
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bedford-Jones, H. (Henry)
+    aliases:
+    - Bedford-Jones, Henry James O'Brien
+    - Wycliffe, John
+    - Hawkwood, Allan
+    birthdate: 1887
+    deathdate: 1949
+    gutenberg_agent_id: '34930'
+    url: http://www.gutenberg.org/2009/agents/34930
+    wikipedia: https://en.wikipedia.org/wiki/H._Bedford-Jones
+description: ''
+gutenberg_issued: '2023-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72367'
+language: en
+pgterms:marc904: https://archive.org/details/starwoman00bedf_1/page/n5/mode/2up
+pgterms:marc905: 20200618075049bedfordjon
+pgterms:marc906: '1924'
+pgterms:marc907: CA
+production_note: Tim Lindell, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/Canadian Libraries)
+publication_note: '  $aToronto :$bThe Ryerson Press, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Star Woman
+url: http://www.gutenberg.org/ebooks/72367
